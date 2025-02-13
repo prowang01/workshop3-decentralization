@@ -1,0 +1,16 @@
+{
+    "models": {
+        "model_1": {
+            "balance": 1000,
+            "accuracy": 0.95
+        },
+        "model_2": {
+            "balance": 0,
+            "accuracy": 0.9
+        },
+        "model_3": {
+            "balance": 0,
+            "accuracy": 0.85
+        }
+    }
+}
